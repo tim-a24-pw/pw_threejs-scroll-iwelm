@@ -10,7 +10,7 @@ class Main {
     document.documentElement.classList.add('has-js');
     Icons.load();
 
-    //new Experience();
+    new Experience();
   }
 }
 new Main();
